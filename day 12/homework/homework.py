@@ -1,0 +1,46 @@
+# შედარებითი ოპერატორები > < >= <= ==
+print(2 > 3)
+print(3 > 2)
+print(1 > 1)
+print(23. > 456.65)
+print(23 > 34)
+print(23 < 23)
+print(2 < 4)
+print(34 < 123.4)
+print(23 < 3)
+print(3 < 34)
+print(34 >= 23)
+print(23 >= 23)
+print(234 >= 34567)
+print(57 >= 98)
+print(23 >= 23)
+print(123 <= 123)
+print(23 <= 12)
+print(12 <= 8765)
+print(45 <= 785)
+print(13.0 <= 46)
+print("gugu" == "gugu")
+print(12 == 21)
+print(12.0 == 12)
+print("bebe" == "inana")
+print(234 == 34)
+print(2 == 34)
+# Logical Operations
+# და - and
+# ან - or
+# and - ლოგიკური ოპერატორი რომელშიც თუ მნიშვნელობა იქნება False მთლიანი მნიშვნელობის შედეგი იქნება False.
+# or - ლოგიკური ოპერატორი რომელშიც თუ მისი მნიშვნელობა იქნება True, მთლიანი მნიშვნელობის შედეგი იქნება True.
+print(True and True)
+print(True and False)
+print(1>5 and 2 >= 9)
+print(True or True)
+print(True or False)
+print(1 <3 or 34 ==34)
+num1=int(input("enter your number"))
+num2=23
+print(num1 > num2)
+Name=input("enter your name")
+My_Name="Mari"
+print(My_Name == Name)
+age=int(input("enter your age"))
+print(age > 18)
