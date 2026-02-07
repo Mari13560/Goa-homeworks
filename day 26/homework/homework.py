@@ -58,9 +58,10 @@ total = 0
 while True:
      num=int(input("enter your number: "))
      if num % 2 == 0:
-        break
-     total += 1
+      total += 1
+      break
 print(total)
+
      
 #9
 while True:
