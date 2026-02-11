@@ -1,0 +1,18 @@
+
+#title {
+    text-align: center;
+    color: brown;
+}
+
+.section {
+    color: darkred;
+}
+
+.item {
+    color: black;
+}
+
+#btn {
+    background-color: brown;
+    color: white;
+}

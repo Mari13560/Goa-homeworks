@@ -1,0 +1,32 @@
+/* 
+class selector გამოიყენება ერთნაირი სტილისმრავალ ელემენტზე მისანიჭებლად class-ს შეგვიძლია ერთზე მეტ ელემენტს გადავცეთ
+class selector იწერება წერტილით  
+id selector გამოიყენება ერთ კონკრეტულ უნიკალურ ელემენტზე id უნდა ჰქონდეს მხოლოდ ერთ ელემენტს მთელ HTML დოკუმენტში
+id selector იწერება დიეზით #
+
+*/
+h1 {
+    color: rgb(165, 102, 102);
+    background-color: rgb(125, 27, 27);
+}
+.g {
+    color: yellow;
+    background-color: rgb(36, 44, 90);
+}
+#xexe {
+    color: black;
+    background-color: orange;
+}
+div {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(172, 34, 34);
+}
+.b {
+    background-color: rgb(19, 42, 50);
+    border: 2px rgba(255, 0, 200, 0.348);
+}
+#s {
+    background-color: pink;
+    border: red;
+}
