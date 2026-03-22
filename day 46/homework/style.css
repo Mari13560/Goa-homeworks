@@ -1,0 +1,15 @@
+ th, td {
+    border: 1px solid #5b5757;
+
+    text-align: center;
+  }
+  th {
+    background-color: #e8c5c5;
+  }
+  td:nth-child(1) {
+    text-align: center;
+
+  }
+  td:nth-child(2) {
+    text-align: left;
+  }

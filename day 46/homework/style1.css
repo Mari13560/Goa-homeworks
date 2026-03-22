@@ -1,0 +1,14 @@
+  table {
+    border-radius: 10px;
+  }
+  thead tr {
+    background:greenyellow;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+  }
+  tbody td {
+    color: #666;
+    border-top: solid #c7df8a;
+    text-align: center;
+  }

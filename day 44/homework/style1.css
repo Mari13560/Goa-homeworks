@@ -1,0 +1,19 @@
+body{
+    background-color: #fff3e0;
+}
+h1{
+    color: darkred;
+}
+a:link{
+    color: orange;
+}
+a:visited{
+    color: rgb(93, 42, 165);
+}
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+a:active{
+    color: green;
+}

@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: borde-box;
+}
+/*Box Model – მეთოდი რომელიც განსაზღვრავს ელემენტის ზომებს შედგება 4 შრისგან:
+Content  შიგთავსი
+Padding  შიგთავსსა და ბორდერს შორის სივრცე
+Border  ელემენტის გარს შემორტყმული ხაზები
+Margin  ელემენტის გარე სივრცე სხვა ელემენტებისგან
+CSS Reset  სტილების ნულირება და box-sizing: border-box დამავიწყდა
+*/
+
+.xe{
+    background-color: white;
+    padding: 40px;
+    border:10px solid rgb(178, 176, 176);
+    margin:40px;
+    text-align: center;
+}
+h1{
+    background-color: limegreen;
+    border: green;
+    padding: 10px;
+}
+.bo{
+    background: yellow;
+    border: red solid 5px;
+    padding: 60px;
+    margin: 80px;
+    text-emphasis: center;
+}

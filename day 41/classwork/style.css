@@ -1,0 +1,37 @@
+#a{
+    text-align: left;
+    text-decoration: underline;
+    color: white;
+    background-color: rgb(0, 139, 5);
+}
+#b{
+    text-align: right;
+    text-decoration: underline;
+    color: rgb(216, 33, 33);
+    background-color: darkblue;
+}
+#c{
+    text-align: centre;
+    text-decoration:line-through;
+    color: rgb(255, 255, 255);
+    background-color: rgb(129, 37, 37);
+}
+#d{
+    text-align: left;
+    text-decoration: underline;
+    color: white;
+    background-color: darkblue;
+}
+#e{
+    text-align: right;
+    text-decoration:overline;
+    color:blue;
+    background-color: chocolate;
+
+}
+#f{
+    text-align: centre;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(168, 143, 15);
+}

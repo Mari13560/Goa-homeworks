@@ -1,0 +1,17 @@
+  th, td {
+    border:  black;
+    text-align: left;
+    font-size: 20px;
+  }
+  th {
+    background-color: #d3d3d3;
+    font-weight: bold;
+  }
+
+  tr:nth-child(even) td {
+    background:pink
+  }
+
+  tr:nth-child(odd) td {
+    background-color: #f5f5f5;
+  }
